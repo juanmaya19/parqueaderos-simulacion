@@ -1,0 +1,25 @@
+
+## Archivo de Requerimientos
+Dependencias
+El proyecto requiere las siguientes bibliotecas de Python:
+
+### simpy:
+
+Descripción: Biblioteca para la simulación de eventos discretos.
+Instalación: pip install simpy
+
+### numpy:
+
+Descripción: Biblioteca para cálculos numéricos y generación de números aleatorios.
+Instalación: pip install numpy
+
+### pandas:
+
+Descripción: Biblioteca para el manejo y análisis de datos en estructuras tabulares.
+Instalación: pip install pandas
+
+### matplotlib:
+
+Descripción: Biblioteca para la visualización de datos a través de gráficos.
+Instalación: pip install matplotlib
+Instalación
